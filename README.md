@@ -1,4 +1,4 @@
-# E30 - Lincolnshire Poacher number station simulator
+# E30 - Lincolnshire Poacher numbers station simulator
 
 https://en.wikipedia.org/wiki/Lincolnshire_Poacher_(numbers_station)
 
